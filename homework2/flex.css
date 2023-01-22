@@ -1,0 +1,58 @@
+.father {
+    margin: auto;
+    width: 900px;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.top {
+    height: 250px;
+    width: 850px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mid {
+height: 250px;
+    width: 850px;
+    background-color: white;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.bot {
+    height: 450px;
+    width: 850px;
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Bw {
+    height: 220px;
+    width: 31%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.widgets {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:whitesmoke;
+
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
+div {
+
+}
