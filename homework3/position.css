@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.father {
+    top: 100px;
+    left: 25%;
+    background-color: darkgray;
+    width: 800px;
+    height: 500px;
+    position: relative;
+}
+
+.midl {
+    background-color: midnightblue;
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    bottom: 100px;
+
+
+}
+
+.cards3 {
+
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    border-radius: 10%;
+    width: 150px;
+    height: 100%;
+    background-color: black;
+}
+
+.icons {
+    position: absolute;
+    width: 80px;
+    height: 50px;
+    right: 100px;
+    top: 20px;
+}
+
+.fa-magnifying-glass, fa-server {
+    font-size: 35px;
+}
+
+.logo {
+    width: 120px;
+    height: 50px;
+    background-color: black;
+    border-radius: 10%;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+
+}
+
