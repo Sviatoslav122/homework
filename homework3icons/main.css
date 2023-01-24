@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    bottom: 0;
+}
+
+.all {
+    width: 1100px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+}
+
+.minibox {
+    position: relative;
+    border: gray solid;
+    width: 320px;
+    height: 400px;
+
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    display: block;
+}
+
+p {
+    color: gray;
+    display: block;
+}
+
+.icona {
+    background-color: white;
+    border: black solid 1px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -40px;
+
+}
+
+.lore {
+    border: black solid;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ball {
+    font-size: 40px;
+}
+
+a {
+    color: black;
+}
+
+.ramka {
+    border: solid black 1px;
+}
