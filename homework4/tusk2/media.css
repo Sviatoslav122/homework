@@ -1,0 +1,38 @@
+@media screen and (min-width: 0px)and (max-width: 720px) {
+    .bot {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .ramka {
+
+        background-color: darkgray;
+    }
+
+    .cde {
+        width: 25%;
+        height: 80%;
+
+    }
+
+    .container {
+        width: 500px;
+    }
+
+    .top {
+        height: 100px;
+        width: 600px;
+    }
+
+    .lefttop {
+        width: 600px;
+        height: 400px;
+    }
+
+    .right {
+        width: 600px;
+        height: 100px;
+    }
+}
